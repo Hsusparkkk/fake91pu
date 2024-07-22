@@ -1,0 +1,175 @@
+<div >
+	<p class="lyric" style="line-height: 22px;">&nbsp;</p>
+	<p class="p1 music" style="line-height: 22px;">
+		[前奏]&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="tf">G</span>&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="tf">Em</span>&nbsp;&nbsp;&nbsp;&nbsp;|
+		<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="tf">G</span>&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="p1 lyric" style="line-height: 22px;">&nbsp;</p>
+	<p class="p1 music" style="line-height: 22px;">
+		|<span class="tf">Em</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+		<span class="tf">D</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+		<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="p1 lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>1</span><span>.</span><span>每</span><span>次</span><span>遇</span><span>見</span><span>你</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>恰</span><span>好</span><span>的</span><span>天</span><span>氣</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>彷</span>
+		<span>彿</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>早</span><span>已</span><span>有</span><span>了</span><span>默</span><span>契</span>
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>▲</span><span>2</span><span>.</span><span>每</span><span>次</span><span>道</span><span>別</span><span>離</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>偷</span><span>偷</span><span>凝</span><span>望</span><span>你</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>再</span><span>見</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>用</span><span>最</span><span>短</span><span>的</span><span>距</span><span>離</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		|<span class="tf">Em</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+		<span class="tf">D</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;|
+		<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>1</span><span>.</span><span>隨</span><span>太</span><span>陽</span><span>升</span><span>起</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>每</span><span>朵</span><span>思</span><span>念</span><span>情</span><span>緒</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>2</span><span>.</span><span>在</span><span>我</span><span>的</span><span>星</span><span>球</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>你</span><span>是</span><span>萬</span><span>有</span><span>引</span><span>力</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">Am</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+		<span class="tf">Bm</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+		<span class="tf">D</span>&nbsp;&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>1</span><span>.</span><span>帶</span><span>著</span><span>漂</span><span>浮</span><span>的</span><span>自</span><span>己</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>幻</span><span>想</span><span>牽</span><span>著</span><span>你</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>在</span><span>每</span><span>個</span><span>夏</span><span>季</span>
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>2</span><span>.</span><span>無</span><span>論</span><span>再</span><span>小</span><span>心</span><span>仔</span><span>細</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>卻</span><span>已</span><span>經</span><span>留</span><span>下</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>心</span><span>動</span><span>的</span><span>痕</span><span>跡</span>
+	</p>
+	<p class="lyric" style="line-height: 22px;">&nbsp;</p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;
+		<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">Em</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>1</span><span>.</span><span>我</span><span>會</span><span>是</span><span>你</span><span>特</span><span>別</span><span>佳</span><span>賓</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>設</span><span>計</span><span>每</span><span>一</span>
+		<span>場</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>驚</span><span>喜</span>
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>2</span><span>.</span><span>我</span><span>會</span><span>是</span><span>你</span><span>秘</span><span>密</span><span>武</span><span>器</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>趕</span><span>走</span><span>每</span><span>一</span>
+		<span>片</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>烏</span><span>雲</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;
+		<u>－&nbsp;<span class="tf">Em</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>1</span><span>.</span><span>緊</span><span>緊</span><span>擁</span><span>抱</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>你</span><span>每</span><span>段</span><span>回</span><span>憶</span>
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>2</span><span>.</span><span>保</span><span>護</span><span>著</span><span>你</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>只</span><span>要</span><span>你</span><span>願</span><span>意</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;
+		<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">Em</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>1</span><span>.</span><span>只</span><span>要</span><span>別</span><span>懷</span><span>疑</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>默</span><span>數</span><span>著</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>每</span><span>次</span><span>你</span>
+		<span>的</span><span>呼</span><span>吸</span><span>&nbsp;</span>
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>2</span><span>.</span><span>勇</span><span>敢</span><span>說</span><span>愛</span><span>我</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>如</span><span>果</span><span>你</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>也</span><span>是</span><span>這</span><span>樣</span>
+		<span>相</span><span>信</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;&nbsp;&nbsp;|
+		<span class="tf">D</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;
+		<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">Em</span></u>&nbsp;－&nbsp;－&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>1</span><span>.</span><span>我</span><span>和</span><span>甜</span><span>蜜</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>就</span><span>會</span><span>慢</span><span>慢</span><span>靠</span><span>近</span><span>你</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span>
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>2</span><span>.</span><span>那</span><span>顆</span><span>星</span><span>星</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>就</span><span>會</span><span>永</span><span>遠</span><span>屬</span><span>於</span><span>你</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;|
+		<span class="tf">D</span>&nbsp;&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>1</span><span>.</span><span>靠</span><span>近</span><span>你</span></p>
+	<p class="lyric" style="line-height: 22px;"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>2</span><span>.</span><span>屬</span><span>於</span><span>你</span></p>
+	<p class="lyric" style="line-height: 22px;">&nbsp;</p>
+	<p class="p1 lyric" style="line-height: 22px;"><span>(</span><span>1</span><span>)</span><span>&nbsp;</span><span>&nbsp;</span><span>(</span><span>回</span><span>▲</span><span>)</span></p>
+	<p class="p1 lyric" style="line-height: 22px;">&nbsp;</p>
+	<p class="p1 lyric" style="line-height: 22px;"><span>(</span><span>2</span><span>)</span></p>
+	<p class="p1 music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<span class="tf">C</span>&nbsp;&nbsp;&nbsp;
+		<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">Em</span></u>&nbsp;－&nbsp;－&nbsp;||&nbsp;x&nbsp;2
+	</p>
+	<p class="p1 lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>我</span><span>也</span><span>永</span><span>遠</span><span>屬</span><span>於</span><span>你</span><span>&nbsp;</span><span>&nbsp;</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;
+		<u>－&nbsp;<span class="tf">Em</span></u>&nbsp;－&nbsp;－&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>不</span><span>要</span><span>忘</span><span>記</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>被</span><span>愛</span><span>也</span><span>有</span><span>意</span><span>義</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;－&nbsp;<u>－&nbsp;<span class="tf">D</span></u>－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">Em</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+		<span class="tf">C</span>&nbsp;&nbsp;－&nbsp;<u>－&nbsp;<span class="tf">D</span></u>－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">Em</span>&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>當</span><span>你</span><span>想</span><span>起</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>每</span><span>一</span><span>次</span><span>相</span><span>聚</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>當</span>
+		<span>你</span><span>懷</span><span>念</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>我</span><span>小</span><span>小</span><span>心</span><span>意</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;
+		<u>－&nbsp;<span class="tf">Em</span></u>&nbsp;－&nbsp;－&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>屬</span><span>於</span><span>我</span><span>你</span><span>每</span><span>個</span><span>晴</span><span>天</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>和</span><span>每</span><span>個</span><span>壞</span><span>天</span><span>氣</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+		<span class="tf">C</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">Em</span></u>&nbsp;－&nbsp;－&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>我</span><span>的</span><span>微</span><span>笑</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>也</span><span>會</span><span>永</span><span>遠</span><span>屬</span><span>於</span><span>你</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+	</p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;
+		<u>－&nbsp;<span class="tf">Em</span></u>&nbsp;－&nbsp;－&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>屬</span><span>於</span><span>你</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span></p>
+	<p class="music" style="line-height: 22px;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;<u>－&nbsp;<span class="tf">G</span></u>&nbsp;－&nbsp;－&nbsp;&nbsp;|<span class="tf">D</span>&nbsp;&nbsp;&nbsp;
+		<u>－&nbsp;<span class="tf">Em</span></u>&nbsp;－&nbsp;－&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;|<span class="tf">C</span>&nbsp;&nbsp;&nbsp;&nbsp;|
+	</p>
+	<p class="lyric" style="line-height: 22px;">
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>屬</span><span>於</span><span>你</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+		<span>&nbsp;</span><span>&nbsp;</span><span>(</span><span>E</span><span>n</span><span>d</span><span>)</span>
+	</p>
+</div>
